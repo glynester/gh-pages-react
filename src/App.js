@@ -9,6 +9,9 @@ function App() {
         <p>
           My awesome <code>GITHUB</code> page.
         </p>
+        <p>
+          React is very easy to learn!!!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
